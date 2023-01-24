@@ -1,3 +1,4 @@
+# Prusa
 1. Velg en ledig 3d printer. 
 2. Ta ut SD kortet. Dette er på siden av front panelet.
 3. Sett den inn i Mac'en. Dette er på høyre side bak Mac'en.
