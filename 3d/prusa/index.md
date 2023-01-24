@@ -1,4 +1,18 @@
 # Prusa
+
+## Lag en modell
+### Fra nettet
+1. Gå på [printables](https://printables.com) eller [thingiverse](https://thingiverse.com) og finn en modell du vil printe
+2. Last den ned enten en "stl" fil eller en "obj" fil.
+3. Flytt den over til en minnepenn
+### Lag din egen
+1. Gå på [tinkercad](https://tinkercad.com) og lag en bruker.
+2. Lag en ny 3d modell
+3. Lag et design
+4. Last ned som stl
+5. Putt stl på en minnepenn
+
+## Print!
 1. Velg en ledig 3d printer. 
 2. Ta ut SD kortet. Dette er på siden av front panelet.
 3. Sett den inn i Mac'en. Dette er på høyre side bak Mac'en.
