@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "3d/prusa/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "3d/prusa/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "3d/prusa/index.md"
               }
             }
           }
@@ -159,9 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b3b92b2eabbe48b",
+  "active": "9804dd664e05806e",
   "lastOpenFiles": [
-    "3d/prusa/index.md",
-    "index.md"
+    "index.md",
+    "3d/prusa/index.md"
   ]
 }

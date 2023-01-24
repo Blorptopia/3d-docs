@@ -5,6 +5,7 @@
 1. Gå på [printables](https://printables.com) eller [thingiverse](https://thingiverse.com) og finn en modell du vil printe
 2. Last den ned enten en "stl" fil eller en "obj" fil.
 3. Flytt den over til en minnepenn
+
 ### Lag din egen
 1. Gå på [tinkercad](https://tinkercad.com) og lag en bruker.
 2. Lag en ny 3d modell
