@@ -8,10 +8,11 @@
 
 ### Lag din egen
 1. Gå på [tinkercad](https://tinkercad.com) og lag en bruker.
-2. Lag en ny 3d modell
-3. Lag et design
-4. Last ned som stl
-5. Putt stl på en minnepenn
+2. Trykk på New og velg 3D Design
+3. Velg figur på sidebar og plaser på Workplane
+4. For å redigere figurens egenskaper trykk på den. Inne her kan du rotere, resize, osv...
+7. Trykk på Export, velg Everything inside, og last ned modellen som stl
+8. Putt stl på en minnepenn
 
 ## Print!
 1. Velg en ledig 3d printer. 
