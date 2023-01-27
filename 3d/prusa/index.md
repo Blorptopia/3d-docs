@@ -3,7 +3,7 @@
 ## Lag en modell
 ### Fra nettet
 1. Gå på [printables](https://printables.com) eller [thingiverse](https://thingiverse.com) og finn en modell du vil printe
-2. Last den ned enten en "stl" fil eller en "obj" fil.
+2. Last ned enten en "stl" fil eller en "obj" fil.
 3. Flytt den over til en minnepenn
 
 ### Lag din egen
