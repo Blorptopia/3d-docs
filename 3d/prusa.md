@@ -1,5 +1,3 @@
-# Prusa
-
 ## Lag en modell
 ### Fra nettet
 1. Gå på [printables](https://printables.com) eller [thingiverse](https://thingiverse.com) og finn en modell du vil printe
@@ -7,12 +5,7 @@
 3. Flytt den over til en minnepenn
 
 ### Lag din egen
-1. Gå på [tinkercad](https://tinkercad.com) og lag en bruker.
-2. Trykk på New og velg 3D Design
-3. Velg figur på sidebar og plaser på Workplane
-4. For å redigere figurens egenskaper trykk på den. Inne her kan du rotere, resize, osv...
-7. Trykk på Export, velg Everything inside, og last ned modellen som stl
-8. Putt stl på en minnepenn
+1. Se [[lag modell]]
 
 ## Print!
 1. Velg en ledig 3d printer. 

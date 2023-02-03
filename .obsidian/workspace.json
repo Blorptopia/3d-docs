@@ -13,25 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3d/prusa/index.md",
+                "file": "3d/prusa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+            "id": "588ef765adadf516",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230203112442.png"
+              }
+            }
+          },
+          {
+            "id": "a2963b3686bdcaf8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "5b3b92b2eabbe48b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3d/prusa/index.md",
+                "file": "Images/Pasted image 20230203112442.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3d/prusa/index.md",
+                "file": "Images/Pasted image 20230203112442.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3d/prusa/index.md"
+                "file": "Images/Pasted image 20230203112442.png"
               }
             }
           }
@@ -158,9 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9804dd664e05806e",
+  "active": "983cfb0aac321195",
   "lastOpenFiles": [
+    "3d/prusa.md",
+    "3d/lag modell.md",
+    "Images/Pasted image 20230203111418.png",
+    "Images/Pasted image 20230203112109.png",
+    "Images/Pasted image 20230203112127.png",
+    "Images/Pasted image 20230203112146.png",
     "index.md",
-    "3d/prusa/index.md"
+    "3d/Untitled.canvas",
+    "Untitled.md"
   ]
 }
