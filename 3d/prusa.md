@@ -2,25 +2,30 @@
 ### Fra nettet
 1. Gå på [printables](https://printables.com) eller [thingiverse](https://thingiverse.com) og finn en modell du vil printe
 2. Last ned enten en "stl" fil eller en "obj" fil.
-3. Flytt den over til en minnepenn
 
 ### Lag din egen
 1. Se [[lag modell]]
 
 ## Print!
-1. Velg en ledig 3d printer. 
-2. Ta ut SD kortet. Dette er på siden av front panelet.
-3. Sett den inn i Mac'en. Dette er på høyre side bak Mac'en.
-4. Åpne PrusaSlicer (cmd + space, så skriv PrusaSlicer)
-5. Legg til modellen din. Bruk pluss ikonet på toppen av viewet.
-6. Velg filen. Den er på minnepennen.
-7. Velg riktig plastik. Dette er på sidebaren på høyre. Se på rullen på printeren du bruker for hvilken du skal bruke
-8. Trykk slice
-9. Trykk USB ikonet helt nederst
-10. Trykk på eject ikonet
-11. Ta ut SD-kortet
-12. Sett den inn i printeren og velg modellen
-13. Følg med på første laget
-14. Vent til printeren er ferdig
-15. Ta av print flaten, og bøy den for å få av printeren
-16. Sett print flaten tilbake
+1. Installer PrusaSlicer på PCen din
+2. Last ned [Config bundle](https://raw.githubusercontent.com/Blorptopia/3d-docs/main/Config/PrusaSlicer_config_bundle.ini)
+3. Åpne PrusaSlicer
+4. Trykk Fil -> Import -> Import Config Bundle og velg filen du lastet ned.
+5. Velg en ledig 3d printer. 
+6. Ta ut SD kortet. Dette er på siden av front panelet.
+7. Sett den inn i PCen din.
+9. Legg til modellen din. Bruk pluss ikonet på toppen av viewet.
+10. Velg filen. Den er på minnepennen.
+11. Velg riktig plastik. Dette er på sidebaren på høyre. Se på rullen på printeren du bruker for hvilken du skal bruke
+12. Trykk slice
+13. Trykk USB ikonet helt nederst
+14. Lagre filen uten å endre navnet.
+15. Trykk på eject ikonet
+16. Ta ut SD-kortet
+17. Sett den inn i printeren
+18. Klikk på knappen, skroll ned til Print from SD
+19. Klikk på modellen du vil printe
+20. Følg med på første laget
+21. Vent til printeren er ferdig. Du trenger ikke følge med på printen hele tiden.
+22. Ta av print flaten, og bøy den for å få av printen
+23. Sett print flaten tilbake. Skruene skal helt inn i hakket.

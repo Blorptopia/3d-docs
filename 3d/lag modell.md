@@ -18,4 +18,3 @@
 ![[Pasted image 20230203111931.png]]
 ![[Pasted image 20230203112127.png]]
 ![[Pasted image 20230203112146.png]]
-9. Putt stl på en minnepenn
