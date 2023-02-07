@@ -17,15 +17,16 @@
 9. Legg til modellen din. Bruk pluss ikonet på toppen av viewet.
 10. Velg filen. Den er på minnepennen.
 11. Velg riktig plastik. Dette er på sidebaren på høyre. Se på rullen på printeren du bruker for hvilken du skal bruke
-12. Trykk slice
-13. Trykk USB ikonet helt nederst
-14. Lagre filen uten å endre navnet.
-15. Trykk på eject ikonet
-16. Ta ut SD-kortet
-17. Sett den inn i printeren
-18. Klikk på knappen, skroll ned til Print from SD
-19. Klikk på modellen du vil printe
-20. Følg med på første laget
-21. Vent til printeren er ferdig. Du trenger ikke følge med på printen hele tiden.
-22. Ta av print flaten, og bøy den for å få av printen
-23. Sett print flaten tilbake. Skruene skal helt inn i hakket.
+12. Hvis en del av modellen din står rett over lufta, anbefales det å gå til Print Settings -> Support material og skru på Generate support material
+13. Trykk slice
+14. Trykk USB ikonet helt nederst
+15. Lagre filen uten å endre navnet.
+16. Trykk på eject ikonet
+17. Ta ut SD-kortet
+18. Sett den inn i printeren
+19. Klikk på knappen, skroll ned til Print from SD
+20. Klikk på modellen du vil printe
+21. Følg med på første laget
+22. Vent til printeren er ferdig. Du trenger ikke følge med på printen hele tiden.
+23. Ta av print flaten, og bøy den for å få av printen
+24. Sett print flaten tilbake. Skruene skal helt inn i hakket.
